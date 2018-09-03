@@ -1,0 +1,6 @@
+{
+    "parent": "block/crop",
+    "textures": {
+        "crop": "t3s4ebw:blocks/crystal_crop_stage_7"
+    }
+}
